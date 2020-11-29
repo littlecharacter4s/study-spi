@@ -1,0 +1,3 @@
+dubbo=com.lc.spi.protocol.DubboProtocol
+http=com.lc.spi.protocol.HttpProtocol
+com.lc.spi.protocol.ProtocolWrapper
